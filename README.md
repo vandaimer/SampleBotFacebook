@@ -1,3 +1,3 @@
 # SampleBotFacebook
 
-Aplicação para aprender a configuração e funcionamento de bots no Facebook.
+Application to learn about the settings and operation of bots on Facebook Messenger.
